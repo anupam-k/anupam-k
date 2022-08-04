@@ -5,4 +5,4 @@
 <br>
 
 ## _Stats_
-<img src="https://github-readme-stats.vercel.app/api?username=anupam-k&&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anupam-k&&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
