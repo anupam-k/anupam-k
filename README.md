@@ -20,3 +20,23 @@ I am <b><i>Anupam Kumar Krishnan</i></b>, an <b><i>Engineering Graduate 👨‍�
 ## _Stats 📊_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Streak_ 🔥
 |<img src="https://github-readme-stats.vercel.app/api?username=anupam-k&&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true"/>|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anupam-k&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
 |---|---|
+
+## 🤝 _Connect With Me:_  
+
+ <a href= "https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">
+<img src=https://img.shields.io/badge/linkedin-7F3ACE.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/anupam-k" target="_blank">
+<img src=https://img.shields.io/badge/github-7F3ACE.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/krishnan_anupan" target="_blank">
+<img src=https://img.shields.io/badge/twitter-7F3ACE.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/14772878/anupam-kumar-krishnan?tab=profile" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-7F3ACE.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a> 
+
+
+ ## _Visitors Count✅_<br>
+  <img src="https://profile-counter.glitch.me/anupam-k/count.svg" />
+
