@@ -1,4 +1,4 @@
-![Blue White Colorful School Admission LinkedIn Banner](https://user-images.githubusercontent.com/91872149/187197403-8ebd3ab6-ce32-4902-aa92-ab4edff9298a.gif)
+![Blue White Colorful School Admission LinkedIn Banner](https://user-images.githubusercontent.com/91872149/194691084-7d7c8f44-2424-4af0-a9e0-03ffd85053ae.gif)
 
 
 <h1 align="left"><i>Hello World 👋🌎<br><br> I'm Anupam Kumar</i></h1>
