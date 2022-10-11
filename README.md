@@ -26,9 +26,6 @@ I am <b><i>Anupam Kumar Krishnan</i></b>, an <b><i>Engineering Graduate 👨‍�
  <a href= "https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">
 <img src=https://img.shields.io/badge/linkedin-7F3ACE.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/anupam-k" target="_blank">
-<img src=https://img.shields.io/badge/github-7F3ACE.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/krishnan_anupan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-7F3ACE.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
