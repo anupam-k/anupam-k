@@ -2,7 +2,7 @@
 
 
 <h1 align="left"><i>Hello World 👋🌎</i></h1>
-I am <b><i>Anupam Kumar Krishnan</i></b>, an <b><i>Engineering Graduate 👨‍🎓</i></b> from <b><i>D.Y. Patil College Of Engineering, Akurdi, Pune 🏫</i></b><br><br>
+I am <b><i>Anupam Kumar Krishnan👨‍🎓</i></b>, an <b><i>Engineering Graduate 👨‍🎓</i></b> from <b><i>D.Y. Patil College Of Engineering, Akurdi, Pune 🏫</i></b><br><br>
 💻I am a <b><i>Web Developer</i></b> as well as an <b><i>📱UI/UX Enthusiast</i></b><br>
 📝✏️I write Tech affiliated <b>articles</b> on <b><i>Hashnode</i></b><br>
 
