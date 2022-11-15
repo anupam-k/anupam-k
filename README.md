@@ -14,7 +14,7 @@ I am <b><i>Anupam Kumar Krishnan👨‍🎓</i></b>, an <b><i>Engineering Gradua
 👦 Pronouns: ... <b>_He/Him_<b/>
 <br><br>
 ## _Languages and Tools⛏️🔨_
-<p align="left"> <img alt="HTML5" src="https://img.shields.io/badge/html5-9645F4.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-9645F4.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-9645F4.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-9645F4.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-9645F4.svg?style=for-the-badge&logo=tailwindcss-code&logoColor=white"/>  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-9645F4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-9645F4.svg?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="Figma" src="https://img.shields.io/badge/figma-9645F4.svg?style=for-the-badge&logo=figma&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></p>
 <br>
 
 ## _Stats 📊_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Streak_ 🔥
@@ -36,4 +36,6 @@ I am <b><i>Anupam Kumar Krishnan👨‍🎓</i></b>, an <b><i>Engineering Gradua
 
  ## _Visitors Count✅_<br>
   <img src="https://profile-counter.glitch.me/anupam-k/count.svg" />
+<br>
 
+ 
