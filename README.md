@@ -1,4 +1,4 @@
-![Blue White Colorful School Admission LinkedIn Banner (2)](https://user-images.githubusercontent.com/91872149/202633874-9864a9a0-9299-4350-94ab-a204a6899d2d.png)
+![Blue White Colorful School Admission LinkedIn Banner (3)](https://user-images.githubusercontent.com/91872149/202635927-a7ed14d3-9aa8-4218-b32d-8f1a6403fdb0.png)
 
 
 <h1 align="left"><i>Hello World 👋🌎</i></h1>
