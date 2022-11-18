@@ -1,4 +1,4 @@
-![Blue White Colorful School Admission LinkedIn Banner](https://user-images.githubusercontent.com/91872149/194691084-7d7c8f44-2424-4af0-a9e0-03ffd85053ae.gif)
+![Blue White Colorful School Admission LinkedIn Banner (2)](https://user-images.githubusercontent.com/91872149/202633874-9864a9a0-9299-4350-94ab-a204a6899d2d.png)
 
 
 <h1 align="left"><i>Hello World 👋🌎</i></h1>
@@ -27,7 +27,7 @@ I am <b><i>Anupam Kumar Krishnan👨‍🎓</i></b>, an <b><i>Engineering Gradua
 <br> 
  
 ## _Stats 📊_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Streak_ 🔥
-|<img src="https://github-readme-stats.vercel.app/api?username=anupam-k&&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true"/>|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anupam-k&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
+|<img src="https://github-readme-stats.vercel.app/api?username=anupam-k&&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anupam-k&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
 |---|---|
 
 ## 🤝 _Connect With Me:_  
