@@ -44,7 +44,7 @@ I am <b><i>Anupam Kumar Krishnan👨‍🎓</i></b>, an <b><i>Engineering Gradua
 
 
  ## _Visitors Count✅_<br>
-  <img src="https://profile-counter.glitch.me/anupam-k/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=anupam-k&color=brightgreen&style=for-the-badge" />
 <br>
 
  
