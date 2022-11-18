@@ -35,7 +35,7 @@ I am <b><i>Anupam Kumar Krishnan👨‍🎓</i></b>, an <b><i>Engineering Gradua
  <a href= "https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">
 <img src=https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/krishnan_anupan" target="_blank">
+<a href="https://twitter.com/krishnan_anupam" target="_blank">
 <img src=https://img.shields.io/badge/twitter-lightblue.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/14772878/anupam-kumar-krishnan?tab=profile" target="_blank">
