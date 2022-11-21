@@ -7,7 +7,7 @@ I am <b><i>Anupam Kumar Krishnan👨‍🎓</i></b>, an <b><i>Engineering Gradua
 📝✏️I write Tech affiliated <b>articles</b> on <b><i>Hashnode</i></b><br>
 
 ## _Here Is What I'm Working On_ 👨‍💻<br>
-💻 I’m currently learning ... <b>_Full Stack Javascript Web Developer Bootcamp_ 🔥✨🚀</b>
+💻 I’m currently learning ... <b>_Full Stack Javascript Web Development_ 🔥✨🚀</b>
 
 🤔 Ask me about ... <b>_Web Development_</b>✨
 
