@@ -30,6 +30,9 @@ I am <b><i>Anupam Kumar Krishnan </i></b>, an <b><i>Engineering Graduate 👨‍
 |<img src="https://github-readme-stats.vercel.app/api?username=anupam-k&&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anupam-k&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
 |---|---|
 
+## _Most Languages Used_ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-k&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🤝 _Connect With Me:_  
 
  <a href= "https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">
