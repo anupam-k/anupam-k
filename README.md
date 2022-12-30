@@ -46,8 +46,8 @@ I am <b><i>Anupam Kumar Krishnan </i></b>, an <b><i>Engineering Graduate 👨‍
 </a> 
 
 
- ## _Visitors Count✅_<br>
-  <img src="https://komarev.com/ghpvc/?username=anupam-k&color=brightgreen&style=for-the-badge" />
+ ## _Visitors Count👪_<br>
+  <img src="https://komarev.com/ghpvc/?username=anupam-k&color=blue&style=for-the-badge" />
 <br>
 
  
