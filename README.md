@@ -26,12 +26,11 @@ I am <b><i>Anupam Kumar Krishnan </i></b>, an <b><i>Engineering Graduate 👨‍
  <p><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></p>
 <br> 
  
-## _Stats 📊_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Streak_ 🔥
-|<img src="https://github-readme-stats.vercel.app/api?username=anupam-k&&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anupam-k&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
-|---|---|
+## _Streak_ 🔥
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anupam-k&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## _Most Languages Used_ 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-k&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## _Most Languages Used_ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-k&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 🤝 _Connect With Me:_  
 
@@ -39,7 +38,7 @@ I am <b><i>Anupam Kumar Krishnan </i></b>, an <b><i>Engineering Graduate 👨‍
 <img src=https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/krishnan_anupam" target="_blank">
-<img src=https://img.shields.io/badge/twitter-lightblue.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-darkblue.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/14772878/anupam-kumar-krishnan?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-orange.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
